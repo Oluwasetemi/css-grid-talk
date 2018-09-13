@@ -1,3 +1,6 @@
-# Async + Await
+# Flex + Grid
 
-Flow Control in JavaScript is hard! Native Promises in JavaScript have helped immensely, but the syntax still a little callback-y. With Async + Await, we can write synchronous looking code without losing any of the benefits of JavaScript's asynchronous nature. This talk will explore how async + await works, best practices for flow control, and explore several solutions for handling errors.
+The simple introduction to the new layout techniques in CSS. Leaving the shades of Table, Float and all other forms of cracky hacky CSS behind for good.
+You can invest the time to learn it and you will never regret it.
+The future of write good and modern CSS layout is not far from you. I will try to talk you over.
+Enjoy the show and conference.
